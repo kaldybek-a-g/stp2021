@@ -1,2 +1,2 @@
 # STP-2021
-## My labs for STP decpline
+## My labs for STP discipline
